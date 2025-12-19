@@ -138,10 +138,7 @@ Web tabanlı ürünlerde uçtan uca geliştirme yapıyorum: **UI**, **API** ve *
   <img height="180" src="https://streak-stats.demolab.com?user=orayyilmaz16" />
 </p>
 
-<!-- Trophy -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=orayyilmaz16&row=1&column=7" />
-</p>
+
 
 <!-- Activity Graph -->
 <p align="center">
