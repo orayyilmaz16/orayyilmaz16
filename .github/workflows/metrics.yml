@@ -1,0 +1,38 @@
+name: Generate Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # Her gün otomatik günceller
+  workflow_dispatch:        # Actions sekmesinden manuel de tetikleyebilirsin
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: orayyilmaz16
+
+          # Klasik istatistik kartının (show_icons) yerine geçer
+          template: classic
+          base: header, activity, community, repositories, metadata
+
+          # Top-langs kartının yerine geçer
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming
+          plugin_languages_limit: 8
+
+          # Trophy kartının yerine geçer
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+
+          config_timezone: Europe/Istanbul
