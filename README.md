@@ -36,7 +36,7 @@ const oray: Developer = {
 ```
 
 - 🔭 Şu anda **kurumsal düzeyde ASP.NET Core uygulamaları** ve **yüksek performanslı REST API'ler** üzerinde çalışıyorum.
-- 🌱 **Kubernetes**, **Azure** ve **mikroservis mimarileri** üzerine derinlemesine bilgi edinmeye devam ediyorum.
+- 🌱 **mikroservis mimarileri** üzerine derinlemesine bilgi edinmeye devam ediyorum.
 - 🤝 **Clean Architecture** ve **SOLID prensiplerine** dayalı, sürdürülebilir ve test edilebilir kod tabanları oluşturmayı önemsiyorum.
 - 🤖 Geliştirici üretkenliğini artıran **AI destekli araçlar ve entegrasyonlar** ile ilgileniyorum.
 - 💬 **.NET, ASP.NET Core, React** ve **yazılım mimarisi** hakkında konuşmaktan mutluluk duyarım.
@@ -58,18 +58,6 @@ const oray: Developer = {
 
 ---
 
-## 🧩 Geliştirici Yetkinlik Paneli
-
-| Alan | Seviye | İlerleme |
-|---|---|---|
-| 💻 Backend (.NET / ASP.NET Core) | İleri | ██████████ 95% |
-| 🎨 Frontend (React / Tailwind) | İyi–İleri | ████████░░ 80% |
-| 📱 Mobil (React Native) | Orta | ██████░░░░ 60% |
-| ☁️ Cloud & DevOps (Docker / Actions) | Orta–İyi | ███████░░░ 70% |
-| 🤖 Yapay Zeka Entegrasyonları | İyi | ████████░░ 80% |
-| 🗄️ Veritabanı Tasarımı (SQL Server / PostgreSQL) | İleri | █████████░ 90% |
-
----
 
 ## 💻 Teknoloji Yığınım
 
@@ -99,16 +87,9 @@ const oray: Developer = {
 
 ---
 
-## 📌 Öne Çıkan Projeler
 
 > Aşağıdaki projeler GitHub profilimde herkese açık olarak yer almaktadır.
 
-| Proje | Açıklama | Teknolojiler |
-|---|---|---|
-| 📱 **MiniMobileProjects** | Küçük ölçekli mobil uygulama ve proje koleksiyonu | `HTML` |
-| 🛒 **Cramy_E-Trade** | E-ticaret temalı web uygulama projesi | `HTML` |
-| 🌐 **MiniWebProjects** | Çeşitli web projeleri ve uygulama denemeleri koleksiyonu | `HTML` |
-| 🧑‍💼 **oray-yilmaz-mvc-portfolio** | ASP.NET Core MVC ile geliştirilmiş kişisel portföy sitesi | `HTML` / `ASP.NET Core MVC` |
 
 📁 Tüm projelerin listesi için: **[Repositories →](https://github.com/orayyilmaz16?tab=repositories)**
 
