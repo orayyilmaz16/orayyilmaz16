@@ -23,14 +23,14 @@ const oray: Developer = {
   location: "Bursa, Türkiye 🇹🇷",
   experience: "Modern web & mobil uygulama geliştirme",
   languages: ["C#", "JavaScript", "TypeScript", "Python", "HTML5", "CSS3"],
-  backend: [".NET 8/9", "ASP.NET Core MVC", "ASP.NET Core Web API", "Entity Framework Core"],
+  backend: [".NET 8/9/10", "ASP.NET Core MVC", "ASP.NET Core Web API", "Entity Framework Core"],
   frontend: ["React", "Vite", "Tailwind CSS", "JavaScript", "Responsive Design"],
-  mobile: ["React Native"],
+  mobile: ["Dart/Flutter"],
   database: ["SQL Server", "PostgreSQL", "MySQL"],
   devops: ["Docker", "Git", "GitHub Actions", "CI/CD"],
-  ai: ["OpenAI API", "Ollama", "LangChain", "Prompt Engineering", "MCP Ecosystem"],
+  ai: ["OpenAI API", "Prompt Engineering", "MCP Ecosystem"],
   principles: ["Clean Architecture", "SOLID", "DRY", "Repository Pattern", "CQRS"],
-  currentlyLearning: ["Kubernetes", "Azure", "Microservices", "Event-Driven Architecture"],
+  currentlyLearning: [ "Microservices", "Event-Driven Architecture"],
   funFact: "Önce problemi çöz, sonra kodu yaz."
 };
 ```
@@ -105,12 +105,10 @@ const oray: Developer = {
 
 | Proje | Açıklama | Teknolojiler |
 |---|---|---|
-| 🏦 **Mini ATM Simulation** | OOP tasarımlı, JSON tabanlı veri kalıcılığı, SHA-256 ile PIN hashleme ve banknot küpür mantığı içeren gerçekçi bir ATM simülasyonu | `Python` |
 | 📱 **MiniMobileProjects** | Küçük ölçekli mobil uygulama ve proje koleksiyonu | `HTML` |
 | 🛒 **Cramy_E-Trade** | E-ticaret temalı web uygulama projesi | `HTML` |
 | 🌐 **MiniWebProjects** | Çeşitli web projeleri ve uygulama denemeleri koleksiyonu | `HTML` |
 | 🧑‍💼 **oray-yilmaz-mvc-portfolio** | ASP.NET Core MVC ile geliştirilmiş kişisel portföy sitesi | `HTML` / `ASP.NET Core MVC` |
-| 🎓 **python.django-courseapp** | Django tabanlı kurs/eğitim yönetim uygulaması | `Python` / `JavaScript` |
 
 📁 Tüm projelerin listesi için: **[Repositories →](https://github.com/orayyilmaz16?tab=repositories)**
 
@@ -170,7 +168,6 @@ Yazılım geliştirirken aşağıdaki prensipleri temel alıyorum:
 ## 🤖 Yapay Zeka Araç Setim
 
 - 🧠 **OpenAI API** – LLM tabanlı özellik geliştirme
-- 🖥️ **Ollama** – Yerel (local) LLM çalıştırma ve deneyleri
 - 🔗 **LangChain** – AI destekli iş akışları ve zincirleme (chaining) mantığı
 - ✍️ **Prompt Engineering** – Etkili ve tutarlı prompt tasarımı
 - ⚙️ **AI Otomasyonu** – Geliştirici süreçlerini hızlandıran otomasyonlar
@@ -185,7 +182,6 @@ Yazılım geliştirirken aşağıdaki prensipleri temel alıyorum:
 - [x] React
 - [x] Tailwind CSS
 - [x] Docker
-- [x] Temel AI Entegrasyonları (OpenAI, Ollama, LangChain)
 - [ ] Kubernetes
 - [ ] Microsoft Azure
 - [ ] Mikroservis Mimarisi
@@ -198,7 +194,7 @@ Yazılım geliştirirken aşağıdaki prensipleri temel alıyorum:
 
 <div align="center">
 
-`.NET` • `ASP.NET Core` • `React` • `Tailwind CSS` • `PostgreSQL` • `SQL Server` • `Docker` • `GitHub Actions` • `OpenAI` • `Ollama` • `LangChain`
+`.NET` • `ASP.NET Core` • `React` • `Tailwind CSS` • `PostgreSQL` • `SQL Server` • `Docker` • `GitHub Actions` • `OpenAI`  
 
 </div>
 
