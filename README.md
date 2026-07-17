@@ -122,7 +122,7 @@ const oray: Developer = {
 <img src="https://raw.githubusercontent.com/orayyilmaz16/orayyilmaz16/main/metrics.svg" alt="GitHub Metrics"/>
 </p>
 
-> 📌 Yukarıdaki kart (istatistikler, diller, başarımlar) `lowlighter/metrics` GitHub Action'ı ile **doğrudan bu repoda** üretilir ve her gün otomatik güncellenir — herhangi bir üçüncü taraf Vercel servisine bağımlı değildir, bu yüzden "yüklenmiyor" hatası vermez.
+
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=orayyilmaz16&theme=github-dark"/>
