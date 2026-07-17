@@ -210,7 +210,6 @@ Yazılım geliştirirken aşağıdaki prensipleri temel alıyorum:
 <img src="https://raw.githubusercontent.com/orayyilmaz16/orayyilmaz16/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 </p>
 
-> `Platane/snk` GitHub Action ile (`.github/workflows/snake.yml`) her gün otomatik güncellenir.
 
 ---
 
