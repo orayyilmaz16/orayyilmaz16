@@ -6,7 +6,7 @@
 
 ### 🎯 Sağlam mimari, temiz kod ve ölçeklenebilir mühendislik ile modern yazılımlar inşa ediyorum.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Oray%20Yılmaz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orayyilmaz16/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Oray%20Yilmaz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orayyilmaz16/)
 [![GitHub](https://img.shields.io/badge/GitHub-orayyilmaz16-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orayyilmaz16)
 [![Email](https://img.shields.io/badge/Email-orayyilmaz16%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:orayyilmaz16@gmail.com)
 [![Followers](https://img.shields.io/github/followers/orayyilmaz16?style=for-the-badge&color=blueviolet&label=Followers)](https://github.com/orayyilmaz16?tab=followers)
@@ -112,11 +112,13 @@ const oray: Developer = {
 
 | Proje | Açıklama | Teknolojiler | Durum / Bağlantı |
 |---|---|---|---|
-| 🌐 **[OrayPortfolio](https://github.com/orayyilmaz16/OrayPortfolio)** | Çok katmanlı Clean Architecture, EF Core, MSSQL ve dinamik yönetim paneli içeren kurumsal portföy & CMS platformu. | `.NET 10`, `ASP.NET Core`, `EF Core`, `MSSQL`, `Clean Architecture` | [Kaynak Kodu 🔗](https://github.com/orayyilmaz16/OrayPortfolio) |
-| 📱 **[ModernBlogFlutter](https://github.com/orayyilmaz16/ModernBlogFlutter)** | Kullanıcı yorumları, beğeni sistemi, puanlama ve admin yetki yönetimi özelliklerine sahip kullanıcı dostu cross-platform mobil blog uygulaması. | `Flutter`, `Dart`, `Mobile UI/UX` | [Kaynak Kodu 🔗](https://github.com/orayyilmaz16/ModernBlogFlutter) |
-| ⚡ **[FastShop-API](https://github.com/orayyilmaz16/FastShop-API)** | Modern e-ticaret altyapıları için geliştirilmiş, performans ve veri tutarlılığı odaklı RESTful Web API servisi. | `.NET Core`, `Web API`, `C#`, `REST` | [Kaynak Kodu 🔗](https://github.com/orayyilmaz16/FastShop-API) |
-| 🛒 **[Cramy_E-Trade](https://github.com/orayyilmaz16/Cramy_E-Trade)** | Kategori yönetimi, ürün vitrini ve sepet süreçlerine sahip ASP.NET Core MVC tabanlı e-ticaret web uygulaması. | `ASP.NET Core MVC`, `C#`, `Bootstrap 5`, `CSS` | [Kaynak Kodu 🔗](https://github.com/orayyilmaz16/Cramy_E-Trade) |
-| 📦 **[Flutter-Ecommerce-MockData](https://github.com/orayyilmaz16/Flutter-Ecommerce-MockData)** | Dinamik REST API mock verileri, durum yönetimi (State Management) ve modern sepet akışları içeren e-ticaret mobil uygulaması. | `Flutter`, `Dart`, `REST API`, `JsonPlaceholder` | [Kaynak Kodu 🔗](https://github.com/orayyilmaz16/Flutter-Ecommerce-MockData) |
+| 📦 **[QualityStock](https://github.com/orayyilmaz16/QualityStock)** | Çok katmanlı Clean Architecture (Api, Application, Domain, Infrastructure) ile tasarlanmış kurumsal stok ve envanter yönetim sistemi. | `.NET Core`, `C#`, `Clean Architecture`, `Web API`, `DDD` | [Kaynak Kodu 🔗](https://github.com/orayyilmaz16/QualityStock) |
+| ⚛️ **[modern-store-react](https://github.com/orayyilmaz16/modern-store-react)** | React, Vite, TypeScript ve Tailwind CSS kullanılarak inşa edilmiş modern, modüler ve yüksek performanslı e-ticaret kullanıcı arayüzü. | `React`, `TypeScript`, `Vite`, `Tailwind CSS`, `Responsive` | [Kaynak Kodu 🔗](https://github.com/orayyilmaz16/modern-store-react) |
+| 📱 **[ModernBlogFlutter](https://github.com/orayyilmaz16/ModernBlogFlutter)** | Kullanıcı yorumları, beğeni sistemi, puanlama ve admin yetki yönetimi özelliklerine sahip kullanıcı dostu cross-platform mobil blog uygulaması. | `Flutter`, `Dart`, `Mobile UI/UX`, `State Management` | [Kaynak Kodu 🔗](https://github.com/orayyilmaz16/ModernBlogFlutter) |
+| 🛒 **[Cramy_E-Trade](https://github.com/orayyilmaz16/Cramy_E-Trade)** | Clean Architecture katmanlı mimarisi (Application, Domain, Infrastructure, Persistence, Web) ile kurgulanmış kapsamlı e-ticaret platformu. | `ASP.NET Core MVC`, `C#`, `Clean Architecture`, `Bootstrap 5` | [Kaynak Kodu 🔗](https://github.com/orayyilmaz16/Cramy_E-Trade) |
+| 📱 **[Flutter-Ecommerce-MockData](https://github.com/orayyilmaz16/Flutter-Ecommerce-MockData)** | Dinamik REST API mock verileri, durum yönetimi ve modern sepet akışları içeren e-ticaret mobil uygulaması. | `Flutter`, `Dart`, `REST API`, `JsonPlaceholder` | [Kaynak Kodu 🔗](https://github.com/orayyilmaz16/Flutter-Ecommerce-MockData) |
+| 👥 **[CustomerManagementSystem](https://github.com/orayyilmaz16/CustomerManagementSystem)** | Business, DataAccess, Domain ve UI katmanlarından oluşan N-Tier mimarili kurumsal müşteri yönetim otomasyonu. | `C#`, `.NET`, `N-Tier Architecture`, `Entity Framework` | [Kaynak Kodu 🔗](https://github.com/orayyilmaz16/CustomerManagementSystem) |
+| ⚡ **[Mini-API---Static-Projects](https://github.com/orayyilmaz16/Mini-API---Static-Projects)** | FastShop-API ve modern RESTful mikro servisleri içeren pratik API ve web geliştirme koleksiyonu. | `.NET Web API`, `Python / FastAPI`, `RESTful Design` | [Kaynak Kodu 🔗](https://github.com/orayyilmaz16/Mini-API---Static-Projects) |
 
 📁 Tüm projeleri görüntülemek için: **[GitHub Repositories →](https://github.com/orayyilmaz16?tab=repositories)**
 
@@ -157,7 +159,8 @@ const oray: Developer = {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=orayyilmaz16&theme=github-compact" alt="Activity Graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=orayyilmaz16&theme=github_dark" alt="Top Languages by Repos"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=orayyilmaz16&theme=github_dark" alt="Most Committed Languages"/>
 </p>
 
 ---
@@ -177,7 +180,7 @@ const oray: Developer = {
 
 ---
 
-##  Katkı Yılanı (Contribution Snake)
+## 📊 Katkı Yılanı (Contribution Snake)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/orayyilmaz16/orayyilmaz16/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
@@ -189,8 +192,8 @@ const oray: Developer = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bağlantı%20Kur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orayyilmaz16/)
-[![Email](https://img.shields.io/badge/Gmail-İletişime%20Geç-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:orayyilmaz16@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orayyilmaz16/)
+[![Gmail](https://img.shields.io/badge/Gmail-%C4%B0leti%C5%9Fime%20Ge%C3%A7-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:orayyilmaz16@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Takip%20Et-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orayyilmaz16)
 [![Instagram](https://img.shields.io/badge/Instagram-Takip%20Et-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/orayyilmaz16)
 
