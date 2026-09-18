@@ -195,7 +195,7 @@ const oray: Developer = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orayyilmaz16/)
 [![Gmail](https://img.shields.io/badge/Gmail-%C4%B0leti%C5%9Fime%20Ge%C3%A7-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:orayyilmaz16@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Takip%20Et-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orayyilmaz16)
-[![Instagram](https://img.shields.io/badge/Instagram-Takip%20Et-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/orayyilmaz16)
+[![Instagram](https://img.shields.io/badge/Instagram-Takip%20Et-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oray_ylmz)
 
 <br/>
 
