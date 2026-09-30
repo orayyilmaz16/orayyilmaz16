@@ -48,6 +48,38 @@
 
 <div align="center">
 
+<<<<<<< HEAD
 💭 *"Önce problemi çöz, sonra kodu yaz."*
+=======
+🦈 **Pull Shark** — Birden fazla merge edilmiş pull request katkısı  
+⭐ **GitHub Pro** Kullanıcısı
+
+</div>
+
+---
+
+## 📊 Katkı Yılanı (Contribution Snake)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/orayyilmaz16/orayyilmaz16/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+</p>
+
+---
+
+## 📫 Benimle İletişime Geçin
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orayyilmaz16/)
+[![Gmail](https://img.shields.io/badge/Gmail-%C4%B0leti%C5%9Fime%20Ge%C3%A7-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:orayyilmaz16@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Takip%20Et-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orayyilmaz16)
+[![Instagram](https://img.shields.io/badge/Instagram-Takip%20Et-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oray_ylmz)
+
+<br/>
+
+### 💭 *"Önce problemi çöz, sonra kodu yaz."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient"/>
+>>>>>>> 7b88362f9153f1df3d9dfc30e64ce00e59f6788d
 
 </div>
