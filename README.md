@@ -2,7 +2,7 @@
 
 # Oray Yılmaz
 
-### Software Developer
+
 
 ### 🎯 Sağlam mimari, temiz kod ve modern teknolojilerle ölçeklenebilir çözümler geliştiriyorum.
 
