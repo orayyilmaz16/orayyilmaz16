@@ -1,0 +1,39 @@
+{
+  "_aciklama": "Repo adına göre elle yazılmış açıklama ve etiketler. GitHub'daki description boşsa bu değer kullanılır. Yeni repo ekleyince buraya bir satır eklemeniz yeterli.",
+  "QualityStock": {
+    "description": "Clean Architecture ve DDD prensipleriyle geliştirilmiş kurumsal stok ve envanter yönetim sistemi.",
+    "tags": ["Clean Architecture", "DDD"]
+  },
+  "modern-store-react": {
+    "description": "Bileşen tabanlı mimari ve modern sepet/ürün akışlarına sahip responsive e-ticaret arayüzü.",
+    "tags": ["Tailwind CSS"]
+  },
+  "ModernBlogFlutter": {
+    "description": "Yetki yönetimi, kullanıcı etkileşimleri ve dinamik içerik akışı sunan mobil blog uygulaması.",
+    "tags": ["State Management"]
+  },
+  "Cramy_E-Trade": {
+    "description": "N-Tier katmanlı mimari ve Repository deseni ile kurgulanmış web tabanlı e-ticaret çözümü.",
+    "tags": ["ASP.NET Core MVC", "EF Core"]
+  },
+  "NovaCode-Studio": {
+    "description": "Geliştirilmekte olan TypeScript projesi.",
+    "tags": []
+  },
+  "FastApi-RestApi-Py": {
+    "description": "FastAPI ile geliştirilmiş REST API çalışması.",
+    "tags": ["FastAPI"]
+  },
+  "DataVortex": {
+    "description": "Python ile veri işleme denemeleri.",
+    "tags": []
+  },
+  "MiniWebProjects": {
+    "description": "Küçük web projeleri koleksiyonu.",
+    "tags": []
+  },
+  "MiniMobileProjects": {
+    "description": "Küçük mobil uygulama denemeleri.",
+    "tags": []
+  }
+}

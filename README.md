@@ -48,9 +48,9 @@
 
 | Proje | Açıklama | Teknoloji | Boyut |
 |:--|:--|:--|--:|
-| [**MiniWebProjects**](https://github.com/orayyilmaz16/MiniWebProjects) ![stars](https://img.shields.io/github/stars/orayyilmaz16/MiniWebProjects?style=flat-square&label=%E2%AD%90&color=yellow) | Mini Web Projects & Application | `HTML` | 9890 KB |
-| [**MiniMobileProjects**](https://github.com/orayyilmaz16/MiniMobileProjects) ![stars](https://img.shields.io/github/stars/orayyilmaz16/MiniMobileProjects?style=flat-square&label=%E2%AD%90&color=yellow) | Mini Mobile Projects & Applications | `Dart` | 1577 KB |
-| [**NovaCode-Studio**](https://github.com/orayyilmaz16/NovaCode-Studio) ![stars](https://img.shields.io/github/stars/orayyilmaz16/NovaCode-Studio?style=flat-square&label=%E2%AD%90&color=yellow) | _Açıklama eklenmedi_ | `TypeScript` | 6489 KB |
+| [**MiniWebProjects**](https://github.com/orayyilmaz16/MiniWebProjects) ![stars](https://img.shields.io/github/stars/orayyilmaz16/MiniWebProjects?style=flat-square&label=%E2%AD%90&color=yellow) | Küçük web projeleri koleksiyonu. | `HTML` | 9890 KB |
+| [**MiniMobileProjects**](https://github.com/orayyilmaz16/MiniMobileProjects) ![stars](https://img.shields.io/github/stars/orayyilmaz16/MiniMobileProjects?style=flat-square&label=%E2%AD%90&color=yellow) | Küçük mobil uygulama denemeleri. | `Dart` | 1577 KB |
+| [**NovaCode-Studio**](https://github.com/orayyilmaz16/NovaCode-Studio) ![stars](https://img.shields.io/github/stars/orayyilmaz16/NovaCode-Studio?style=flat-square&label=%E2%AD%90&color=yellow) | Geliştirilmekte olan TypeScript projesi. | `TypeScript` | 6489 KB |
 
 #### 🧪 Diğer Projeler
 <sub>Kod boyutuna göre ilk 5 proje</sub>
@@ -58,9 +58,9 @@
 | Proje | Açıklama | Teknoloji | Boyut |
 |:--|:--|:--|--:|
 | [**Node.js**](https://github.com/orayyilmaz16/Node.js) ![stars](https://img.shields.io/github/stars/orayyilmaz16/Node.js?style=flat-square&label=%E2%AD%90&color=yellow) | _Açıklama eklenmedi_ | `JavaScript` | 7668 KB |
-| [**ModernBlogFlutter**](https://github.com/orayyilmaz16/ModernBlogFlutter) ![stars](https://img.shields.io/github/stars/orayyilmaz16/ModernBlogFlutter?style=flat-square&label=%E2%AD%90&color=yellow) | _Açıklama eklenmedi_ | `Dart` | 6939 KB |
+| [**ModernBlogFlutter**](https://github.com/orayyilmaz16/ModernBlogFlutter) ![stars](https://img.shields.io/github/stars/orayyilmaz16/ModernBlogFlutter?style=flat-square&label=%E2%AD%90&color=yellow) | Yetki yönetimi, kullanıcı etkileşimleri ve dinamik içerik akışı sunan mobil blog uygulaması. | `Dart` `State Management` | 6939 KB |
 | [**CourseProjectFiles**](https://github.com/orayyilmaz16/CourseProjectFiles) ![stars](https://img.shields.io/github/stars/orayyilmaz16/CourseProjectFiles?style=flat-square&label=%E2%AD%90&color=yellow) | _Açıklama eklenmedi_ | `PHP` | 3643 KB |
-| [**Cramy_E-Trade**](https://github.com/orayyilmaz16/Cramy_E-Trade) ![stars](https://img.shields.io/github/stars/orayyilmaz16/Cramy_E-Trade?style=flat-square&label=%E2%AD%90&color=yellow) | _Açıklama eklenmedi_ | `HTML` | 1406 KB |
+| [**Cramy_E-Trade**](https://github.com/orayyilmaz16/Cramy_E-Trade) ![stars](https://img.shields.io/github/stars/orayyilmaz16/Cramy_E-Trade?style=flat-square&label=%E2%AD%90&color=yellow) | N-Tier katmanlı mimari ve Repository deseni ile kurgulanmış web tabanlı e-ticaret çözümü. | `HTML` `ASP.NET Core MVC` `EF Core` | 1406 KB |
 | [**Flutter-Ecommerce-MockData**](https://github.com/orayyilmaz16/Flutter-Ecommerce-MockData) ![stars](https://img.shields.io/github/stars/orayyilmaz16/Flutter-Ecommerce-MockData?style=flat-square&label=%E2%AD%90&color=yellow) | _Açıklama eklenmedi_ | `Dart` | 1358 KB |
 
 👉 *Tüm projeler: [GitHub Repositories](https://github.com/orayyilmaz16?tab=repositories)*

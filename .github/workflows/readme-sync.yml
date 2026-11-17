@@ -1,0 +1,48 @@
+name: README sync
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # her 6 saatte bir GitHub verisini kontrol et
+  push:
+    branches: [main]
+    paths:
+      - "scripts/**"
+      - ".github/workflows/readme-sync.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: readme-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Proje tablolarını güncelle
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/update-readme.mjs
+
+      - name: Değişiklik varsa commit ve push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "Değişiklik yok."
+            exit 0
+          fi
+          git commit -m "docs: proje tablolarını otomatik güncelle" -m "Co-Authored-By: Claude Haiku 5.5 <noreply@anthropic.com>"
+          git pull --rebase origin main
+          git push origin HEAD:main
