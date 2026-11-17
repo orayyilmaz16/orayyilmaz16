@@ -37,24 +37,72 @@
 
 ---
 
-### 📌 Öne Çıkan Projeler
+### 📌 Projeler
 
-| Proje | Açıklama | Teknoloji |
-|---|---|---|
-| 📦 **[QualityStock](https://github.com/orayyilmaz16/QualityStock)** | Clean Architecture ve DDD prensipleriyle geliştirilmiş kurumsal stok ve envanter yönetim sistemi. | `.NET Core`, `C#`, `Clean Architecture` |
-| ⚛️ **[modern-store-react](https://github.com/orayyilmaz16/modern-store-react)** | Bileşen tabanlı mimari ve modern sepet/ürün akışlarına sahip responsive e-ticaret arayüzü. | `React`, `TypeScript`, `Tailwind CSS` |
-| 📱 **[ModernBlogFlutter](https://github.com/orayyilmaz16/ModernBlogFlutter)** | Yetki yönetimi, kullanıcı etkileşimleri ve dinamik içerik akışı sunan mobil blog uygulaması. | `Flutter`, `Dart`, `State Management` |
-| 🛒 **[Cramy_E-Trade](https://github.com/orayyilmaz16/Cramy_E-Trade)** | N-Tier katmanlı mimari ve Repository deseni ile kurgulanmış web tabanlı e-ticaret çözümü. | `ASP.NET Core MVC`, `C#`, `EF Core` |
+<table>
+<tr>
+<td valign="top" width="50%">
 
-### 🧪 Diğer Projeler
+#### ⭐ Öne Çıkan Projeler
 
-| Proje | Açıklama | Teknoloji |
-|---|---|---|
-| 🧠 **[NovaCode-Studio](https://github.com/orayyilmaz16/NovaCode-Studio)** | Yeni geliştirilmekte olan TypeScript projesi. | `TypeScript` |
-| 🐍 **[FastApi-RestApi-Py](https://github.com/orayyilmaz16/FastApi-RestApi-Py)** | FastAPI ile geliştirilmiş REST API çalışması. | `Python`, `FastAPI` |
-| 🔍 **[DataVortex](https://github.com/orayyilmaz16/DataVortex)** | Python ile veri işleme denemeleri. | `Python` |
-| 🌐 **[MiniWebProjects](https://github.com/orayyilmaz16/MiniWebProjects)** | Küçük web projeleri koleksiyonu. | `HTML`, `CSS`, `JS` |
-| 📲 **[MiniMobileProjects](https://github.com/orayyilmaz16/MiniMobileProjects)** | Küçük mobil uygulama denemeleri. | `Dart`, `Flutter` |
+📦 **[QualityStock](https://github.com/orayyilmaz16/QualityStock)** ![stars](https://img.shields.io/github/stars/orayyilmaz16/QualityStock?style=flat-square&label=%E2%AD%90&color=yellow)<br>
+Clean Architecture ve DDD ile kurumsal stok ve envanter yönetimi.<br>
+<img src="https://skillicons.dev/icons?i=cs,dotnet" height="22"> `.NET Core` `C#` `Clean Architecture`
+
+<br>
+
+⚛️ **[modern-store-react](https://github.com/orayyilmaz16/modern-store-react)** ![stars](https://img.shields.io/github/stars/orayyilmaz16/modern-store-react?style=flat-square&label=%E2%AD%90&color=yellow)<br>
+Bileşen tabanlı mimari ve responsive e-ticaret arayüzü.<br>
+<img src="https://skillicons.dev/icons?i=react,ts,tailwind" height="22"> `React` `TypeScript` `Tailwind CSS`
+
+<br>
+
+📱 **[ModernBlogFlutter](https://github.com/orayyilmaz16/ModernBlogFlutter)** ![stars](https://img.shields.io/github/stars/orayyilmaz16/ModernBlogFlutter?style=flat-square&label=%E2%AD%90&color=yellow)<br>
+Yetki yönetimi ve dinamik içerik akışına sahip mobil blog uygulaması.<br>
+<img src="https://skillicons.dev/icons?i=flutter,dart" height="22"> `Flutter` `Dart`
+
+<br>
+
+🛒 **[Cramy_E-Trade](https://github.com/orayyilmaz16/Cramy_E-Trade)** ![stars](https://img.shields.io/github/stars/orayyilmaz16/Cramy_E-Trade?style=flat-square&label=%E2%AD%90&color=yellow)<br>
+N-Tier mimari ve Repository deseniyle web e-ticaret çözümü.<br>
+<img src="https://skillicons.dev/icons?i=dotnet,cs" height="22"> `ASP.NET Core MVC` `C#` `EF Core`
+
+</td>
+<td valign="top" width="50%">
+
+#### 🧪 Diğer Projeler
+
+🧠 **[NovaCode-Studio](https://github.com/orayyilmaz16/NovaCode-Studio)** ![stars](https://img.shields.io/github/stars/orayyilmaz16/NovaCode-Studio?style=flat-square&label=%E2%AD%90&color=yellow)<br>
+Geliştirilmekte olan TypeScript projesi.<br>
+<img src="https://skillicons.dev/icons?i=ts" height="22"> `TypeScript`
+
+<br>
+
+🐍 **[FastApi-RestApi-Py](https://github.com/orayyilmaz16/FastApi-RestApi-Py)** ![stars](https://img.shields.io/github/stars/orayyilmaz16/FastApi-RestApi-Py?style=flat-square&label=%E2%AD%90&color=yellow)<br>
+FastAPI ile REST API çalışması.<br>
+<img src="https://skillicons.dev/icons?i=python,fastapi" height="22"> `Python` `FastAPI`
+
+<br>
+
+🔍 **[DataVortex](https://github.com/orayyilmaz16/DataVortex)** ![stars](https://img.shields.io/github/stars/orayyilmaz16/DataVortex?style=flat-square&label=%E2%AD%90&color=yellow)<br>
+Python ile veri işleme denemeleri.<br>
+<img src="https://skillicons.dev/icons?i=python" height="22"> `Python`
+
+<br>
+
+🌐 **[MiniWebProjects](https://github.com/orayyilmaz16/MiniWebProjects)** ![stars](https://img.shields.io/github/stars/orayyilmaz16/MiniWebProjects?style=flat-square&label=%E2%AD%90&color=yellow)<br>
+Küçük web projeleri koleksiyonu.<br>
+<img src="https://skillicons.dev/icons?i=html,css,js" height="22"> `HTML` `CSS` `JS`
+
+<br>
+
+📲 **[MiniMobileProjects](https://github.com/orayyilmaz16/MiniMobileProjects)** ![stars](https://img.shields.io/github/stars/orayyilmaz16/MiniMobileProjects?style=flat-square&label=%E2%AD%90&color=yellow)<br>
+Küçük mobil uygulama denemeleri.<br>
+<img src="https://skillicons.dev/icons?i=flutter,dart" height="22"> `Dart` `Flutter`
+
+</td>
+</tr>
+</table>
 
 👉 *Tüm projelerimi incelemek için: [GitHub Repositories](https://github.com/orayyilmaz16?tab=repositories)*
 
