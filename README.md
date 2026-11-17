@@ -20,8 +20,9 @@
 ### 👨‍💻 Hakkımda
 
 - 💻 **Backend:** **C#**, **.NET 8/9/10**, **ASP.NET Core Web API / MVC**, **EF Core** ile Clean Architecture ve SOLID prensiplerine uygun servisler.
-- ⚛️ **Frontend & Mobil:** **React**, **TypeScript**, **Tailwind CSS** ile modern web arayüzleri ve **Flutter / Dart** ile cross-platform mobil uygulamalar.
+- ⚛️ **Frontend & Mobil:** **React**, **TypeScript**, **Node.js**, **Tailwind CSS** ile modern web arayüzleri ve **Flutter / Dart** ile cross-platform mobil uygulamalar.
 - 🐍 **Python:** **FastAPI** ile REST API geliştirme ve veri odaklı projeler.
+- 🔄 **CI/CD & DevOps:** **GitHub Actions** ile otomatik build/test pipeline'ları, **Dependabot**, **Docker** ve **Docker Compose** ile konteynerleştirme.
 - 🗄️ **Veritabanı & Araçlar:** MSSQL, PostgreSQL, MySQL; Git, GitHub, Postman.
 - 🤖 **Yapay Zeka:** LLM'ler, AI kodlama araçları ve agentic iş akışları.
 
