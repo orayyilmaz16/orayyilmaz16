@@ -2,9 +2,12 @@
 
 # Oray Yılmaz
 
+### Software / Full-Stack Developer
 
 
-### 🎯 Sağlam mimari, temiz kod ve modern teknolojilerle ölçeklenebilir çözümler geliştiriyorum.
+📍 Bursa, Türkiye · 🏢 [Masqot.co](https://masqot.co)
+
+### 🎯 Sağlam mimari, temiz kod ve modern teknolojilerle ölçeklenebilir çözümler geliştiriyorum. AI destekli geliştirme ve agentic araçlarla çalışıyorum.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Oray%20Yilmaz-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orayyilmaz16/)
 [![GitHub](https://img.shields.io/badge/GitHub-orayyilmaz16-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/orayyilmaz16)
@@ -18,8 +21,9 @@
 
 - 💻 **Backend:** **C#**, **.NET 8/9/10**, **ASP.NET Core Web API / MVC**, **EF Core** ile Clean Architecture ve SOLID prensiplerine uygun servisler.
 - ⚛️ **Frontend & Mobil:** **React**, **TypeScript**, **Tailwind CSS** ile modern web arayüzleri ve **Flutter / Dart** ile cross-platform mobil uygulamalar.
+- 🐍 **Python:** **FastAPI** ile REST API geliştirme ve veri odaklı projeler.
 - 🗄️ **Veritabanı & Araçlar:** MSSQL, PostgreSQL, MySQL; Git, GitHub, Postman.
-- 🤖 **Yapay Zeka:** LLM'ler, AI kodlama araçları.
+- 🤖 **Yapay Zeka:** LLM'ler, AI kodlama araçları ve agentic iş akışları.
 
 ---
 
@@ -41,6 +45,16 @@
 | ⚛️ **[modern-store-react](https://github.com/orayyilmaz16/modern-store-react)** | Bileşen tabanlı mimari ve modern sepet/ürün akışlarına sahip responsive e-ticaret arayüzü. | `React`, `TypeScript`, `Tailwind CSS` |
 | 📱 **[ModernBlogFlutter](https://github.com/orayyilmaz16/ModernBlogFlutter)** | Yetki yönetimi, kullanıcı etkileşimleri ve dinamik içerik akışı sunan mobil blog uygulaması. | `Flutter`, `Dart`, `State Management` |
 | 🛒 **[Cramy_E-Trade](https://github.com/orayyilmaz16/Cramy_E-Trade)** | N-Tier katmanlı mimari ve Repository deseni ile kurgulanmış web tabanlı e-ticaret çözümü. | `ASP.NET Core MVC`, `C#`, `EF Core` |
+
+### 🧪 Diğer Projeler
+
+| Proje | Açıklama | Teknoloji |
+|---|---|---|
+| 🧠 **[NovaCode-Studio](https://github.com/orayyilmaz16/NovaCode-Studio)** | Yeni geliştirilmekte olan TypeScript projesi. | `TypeScript` |
+| 🐍 **[FastApi-RestApi-Py](https://github.com/orayyilmaz16/FastApi-RestApi-Py)** | FastAPI ile geliştirilmiş REST API çalışması. | `Python`, `FastAPI` |
+| 🔍 **[DataVortex](https://github.com/orayyilmaz16/DataVortex)** | Python ile veri işleme denemeleri. | `Python` |
+| 🌐 **[MiniWebProjects](https://github.com/orayyilmaz16/MiniWebProjects)** | Küçük web projeleri koleksiyonu. | `HTML`, `CSS`, `JS` |
+| 📲 **[MiniMobileProjects](https://github.com/orayyilmaz16/MiniMobileProjects)** | Küçük mobil uygulama denemeleri. | `Dart`, `Flutter` |
 
 👉 *Tüm projelerimi incelemek için: [GitHub Repositories](https://github.com/orayyilmaz16?tab=repositories)*
 
