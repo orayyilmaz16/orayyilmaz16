@@ -32,7 +32,7 @@
 
 <div align="center">
 
-![](https://skillicons.dev/icons?i=cs,dotnet,react,ts,tailwind,flutter,dart,python,fastapi,postgres,mysql,git,postman)
+![](https://skillicons.dev/icons?i=cs,dotnet,react,ts,nodejs,tailwind,flutter,dart,python,fastapi,postgres,mysql,docker,githubactions,git,github,postman)
 
 </div>
 
