@@ -40,72 +40,33 @@
 
 ### 📌 Projeler
 
-<table>
-<tr>
-<td valign="top" width="50%">
+<!-- PROJECTS:START -->
+<div align="center">
 
 #### ⭐ Öne Çıkan Projeler
+<sub>Yıldız alan public repolar · yıldıza göre sıralı</sub>
 
-📦 **[QualityStock](https://github.com/orayyilmaz16/QualityStock)** ![stars](https://img.shields.io/github/stars/orayyilmaz16/QualityStock?style=flat-square&label=%E2%AD%90&color=yellow)<br>
-Clean Architecture ve DDD ile kurumsal stok ve envanter yönetimi.<br>
-<img src="https://skillicons.dev/icons?i=cs,dotnet" height="22"> `.NET Core` `C#` `Clean Architecture`
-
-<br>
-
-⚛️ **[modern-store-react](https://github.com/orayyilmaz16/modern-store-react)** ![stars](https://img.shields.io/github/stars/orayyilmaz16/modern-store-react?style=flat-square&label=%E2%AD%90&color=yellow)<br>
-Bileşen tabanlı mimari ve responsive e-ticaret arayüzü.<br>
-<img src="https://skillicons.dev/icons?i=react,ts,tailwind" height="22"> `React` `TypeScript` `Tailwind CSS`
-
-<br>
-
-📱 **[ModernBlogFlutter](https://github.com/orayyilmaz16/ModernBlogFlutter)** ![stars](https://img.shields.io/github/stars/orayyilmaz16/ModernBlogFlutter?style=flat-square&label=%E2%AD%90&color=yellow)<br>
-Yetki yönetimi ve dinamik içerik akışına sahip mobil blog uygulaması.<br>
-<img src="https://skillicons.dev/icons?i=flutter,dart" height="22"> `Flutter` `Dart`
-
-<br>
-
-🛒 **[Cramy_E-Trade](https://github.com/orayyilmaz16/Cramy_E-Trade)** ![stars](https://img.shields.io/github/stars/orayyilmaz16/Cramy_E-Trade?style=flat-square&label=%E2%AD%90&color=yellow)<br>
-N-Tier mimari ve Repository deseniyle web e-ticaret çözümü.<br>
-<img src="https://skillicons.dev/icons?i=dotnet,cs" height="22"> `ASP.NET Core MVC` `C#` `EF Core`
-
-</td>
-<td valign="top" width="50%">
+| Proje | Açıklama | Teknoloji | Boyut |
+|:--|:--|:--|--:|
+| [**MiniWebProjects**](https://github.com/orayyilmaz16/MiniWebProjects) ![stars](https://img.shields.io/github/stars/orayyilmaz16/MiniWebProjects?style=flat-square&label=%E2%AD%90&color=yellow) | Mini Web Projects & Application | `HTML` | 9890 KB |
+| [**MiniMobileProjects**](https://github.com/orayyilmaz16/MiniMobileProjects) ![stars](https://img.shields.io/github/stars/orayyilmaz16/MiniMobileProjects?style=flat-square&label=%E2%AD%90&color=yellow) | Mini Mobile Projects & Applications | `Dart` | 1577 KB |
+| [**NovaCode-Studio**](https://github.com/orayyilmaz16/NovaCode-Studio) ![stars](https://img.shields.io/github/stars/orayyilmaz16/NovaCode-Studio?style=flat-square&label=%E2%AD%90&color=yellow) | _Açıklama eklenmedi_ | `TypeScript` | 6489 KB |
 
 #### 🧪 Diğer Projeler
+<sub>Kod boyutuna göre ilk 5 proje</sub>
 
-🧠 **[NovaCode-Studio](https://github.com/orayyilmaz16/NovaCode-Studio)** ![stars](https://img.shields.io/github/stars/orayyilmaz16/NovaCode-Studio?style=flat-square&label=%E2%AD%90&color=yellow)<br>
-Geliştirilmekte olan TypeScript projesi.<br>
-<img src="https://skillicons.dev/icons?i=ts" height="22"> `TypeScript`
+| Proje | Açıklama | Teknoloji | Boyut |
+|:--|:--|:--|--:|
+| [**Node.js**](https://github.com/orayyilmaz16/Node.js) ![stars](https://img.shields.io/github/stars/orayyilmaz16/Node.js?style=flat-square&label=%E2%AD%90&color=yellow) | _Açıklama eklenmedi_ | `JavaScript` | 7668 KB |
+| [**ModernBlogFlutter**](https://github.com/orayyilmaz16/ModernBlogFlutter) ![stars](https://img.shields.io/github/stars/orayyilmaz16/ModernBlogFlutter?style=flat-square&label=%E2%AD%90&color=yellow) | _Açıklama eklenmedi_ | `Dart` | 6939 KB |
+| [**CourseProjectFiles**](https://github.com/orayyilmaz16/CourseProjectFiles) ![stars](https://img.shields.io/github/stars/orayyilmaz16/CourseProjectFiles?style=flat-square&label=%E2%AD%90&color=yellow) | _Açıklama eklenmedi_ | `PHP` | 3643 KB |
+| [**Cramy_E-Trade**](https://github.com/orayyilmaz16/Cramy_E-Trade) ![stars](https://img.shields.io/github/stars/orayyilmaz16/Cramy_E-Trade?style=flat-square&label=%E2%AD%90&color=yellow) | _Açıklama eklenmedi_ | `HTML` | 1406 KB |
+| [**Flutter-Ecommerce-MockData**](https://github.com/orayyilmaz16/Flutter-Ecommerce-MockData) ![stars](https://img.shields.io/github/stars/orayyilmaz16/Flutter-Ecommerce-MockData?style=flat-square&label=%E2%AD%90&color=yellow) | _Açıklama eklenmedi_ | `Dart` | 1358 KB |
 
-<br>
+👉 *Tüm projeler: [GitHub Repositories](https://github.com/orayyilmaz16?tab=repositories)*
 
-🐍 **[FastApi-RestApi-Py](https://github.com/orayyilmaz16/FastApi-RestApi-Py)** ![stars](https://img.shields.io/github/stars/orayyilmaz16/FastApi-RestApi-Py?style=flat-square&label=%E2%AD%90&color=yellow)<br>
-FastAPI ile REST API çalışması.<br>
-<img src="https://skillicons.dev/icons?i=python,fastapi" height="22"> `Python` `FastAPI`
-
-<br>
-
-🔍 **[DataVortex](https://github.com/orayyilmaz16/DataVortex)** ![stars](https://img.shields.io/github/stars/orayyilmaz16/DataVortex?style=flat-square&label=%E2%AD%90&color=yellow)<br>
-Python ile veri işleme denemeleri.<br>
-<img src="https://skillicons.dev/icons?i=python" height="22"> `Python`
-
-<br>
-
-🌐 **[MiniWebProjects](https://github.com/orayyilmaz16/MiniWebProjects)** ![stars](https://img.shields.io/github/stars/orayyilmaz16/MiniWebProjects?style=flat-square&label=%E2%AD%90&color=yellow)<br>
-Küçük web projeleri koleksiyonu.<br>
-<img src="https://skillicons.dev/icons?i=html,css,js" height="22"> `HTML` `CSS` `JS`
-
-<br>
-
-📲 **[MiniMobileProjects](https://github.com/orayyilmaz16/MiniMobileProjects)** ![stars](https://img.shields.io/github/stars/orayyilmaz16/MiniMobileProjects?style=flat-square&label=%E2%AD%90&color=yellow)<br>
-Küçük mobil uygulama denemeleri.<br>
-<img src="https://skillicons.dev/icons?i=flutter,dart" height="22"> `Dart` `Flutter`
-
-</td>
-</tr>
-</table>
-
-👉 *Tüm projelerimi incelemek için: [GitHub Repositories](https://github.com/orayyilmaz16?tab=repositories)*
+</div>
+<!-- PROJECTS:END -->
 
 ---
 
