@@ -31,7 +31,7 @@
 
 <div align="center">
 
-![](https://skillicons.dev/icons?i=cs,dotnet,react,ts,flutter,dart,postgres,mysql,git,postman)
+![](https://skillicons.dev/icons?i=cs,dotnet,react,ts,tailwind,flutter,dart,python,fastapi,postgres,mysql,git,postman)
 
 </div>
 
