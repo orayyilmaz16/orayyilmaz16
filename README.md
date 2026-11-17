@@ -50,7 +50,7 @@
 |:--|:--|:--|--:|
 | [**MiniWebProjects**](https://github.com/orayyilmaz16/MiniWebProjects) ![stars](https://img.shields.io/github/stars/orayyilmaz16/MiniWebProjects?style=flat-square&label=%E2%AD%90&color=yellow) | Küçük web projeleri koleksiyonu. | `HTML` | 9890 KB |
 | [**MiniMobileProjects**](https://github.com/orayyilmaz16/MiniMobileProjects) ![stars](https://img.shields.io/github/stars/orayyilmaz16/MiniMobileProjects?style=flat-square&label=%E2%AD%90&color=yellow) | Küçük mobil uygulama denemeleri. | `Dart` | 1577 KB |
-| [**NovaCode-Studio**](https://github.com/orayyilmaz16/NovaCode-Studio) ![stars](https://img.shields.io/github/stars/orayyilmaz16/NovaCode-Studio?style=flat-square&label=%E2%AD%90&color=yellow) | Geliştirilmekte olan TypeScript projesi. | `TypeScript` | 6489 KB |
+| [**NovaCode-Studio**](https://github.com/orayyilmaz16/NovaCode-Studio) ![stars](https://img.shields.io/github/stars/orayyilmaz16/NovaCode-Studio?style=flat-square&label=%E2%AD%90&color=yellow) | Geliştirilmekte olan TypeScript projesi. | `TypeScript` | 6345 KB |
 
 #### 🧪 Diğer Projeler
 <sub>Kod boyutuna göre ilk 5 proje</sub>
